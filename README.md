@@ -1,5 +1,8 @@
-## Hi there 👋,  I'm Arshia!
-🚀 Aspiring Software Developer | MERN Stack Enthusiast | AI Explorer
+<h1 align="center">Hi 👋, I'm Arshia!</h1>
+
+<h3 align="center"><strong>🚀 Aspiring Software Developer | MERN Stack Enthusiast | AI Explorer</strong></h3>
+
+---
 ## 🌟 About Me:
 - 💡 Passionate about building web applications & solving real-world problems
 - 🔭 I’m currently working on **RentWheelZ** and **DOCAI**
