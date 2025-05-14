@@ -48,7 +48,7 @@
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshia-sudo)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshia-chandarki-891a03289/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-F48225?logo=site&logoColor=white)]
 
 ---
